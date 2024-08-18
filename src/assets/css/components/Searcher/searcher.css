@@ -1,0 +1,8 @@
+
+/*----Contenedor del buscador-----*/
+.container-searcher{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}

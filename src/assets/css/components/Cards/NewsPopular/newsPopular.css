@@ -1,0 +1,22 @@
+
+/*-----Contenedor principal de la tarjeta----*/
+.container-news.popular{
+    width: 95%;
+    padding: 25px;
+    background-color: var(--gray-bg);
+    border: solid 2px var(--gray-border);
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+/*-----Contenido para el botón de leer más------*/
+.content-read-more{
+    display: flex;
+    align-items: center;
+}
+
+/*----Descripction de la noticia-------*/
+.news__popular--text{
+    color: #969CA8;
+    max-width: 800px;
+}

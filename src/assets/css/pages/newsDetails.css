@@ -1,0 +1,16 @@
+
+
+/*----Contenedor de la imagen------*/
+
+.container-img__details{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+}
+
+/*----Imagen de la noticia------*/
+.img_details{
+    max-width: 45rem;
+}
