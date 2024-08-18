@@ -1,6 +1,7 @@
 # Noticias Mundo
 Este repositorio contiene el proyecto "Noticias Mundo", una aplicación web para visualizar noticias populares.
 
+La API utilizada para la prueba fue la de noticias "https://newsapi.org/"
 
 ## Clonar el repositorio
 
